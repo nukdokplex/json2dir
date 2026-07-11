@@ -1,5 +1,6 @@
 {
   inputs.rust-overlay.url = "github:oxalica/rust-overlay";
+  inputs.rust-overlay.inputs.nixpkgs.follows = "nixpkgs";
 
   outputs = {
     nixpkgs,
