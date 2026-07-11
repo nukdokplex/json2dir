@@ -112,7 +112,7 @@ Run `cargo install json2dir`.
 
 ### With Nix
 
-Run `nix profile add github:alurm/json2dir`.
+Run `nix profile add github:alurm/json2dir`. Run `cachix json2dir` to use the Cachix cache.
 
 ## Development
 
