@@ -16,6 +16,7 @@
   - [With Cargo](#with-cargo)
   - [With Nix flakes](#with-nix-flakes)
 - [Development](#development)
+- [Similar projects](#similar-projects)
 
 ## TL;DR
 
@@ -121,3 +122,7 @@ To build the project, run `cargo build` or `nix build`. If you're using `rustup`
 Useful scripts may be found in the `scripts` folder.
 
 Feel free to fork the project, open issues, submit PRs.
+
+## Similar projects
+
+- [vi/json2](https://github.com/vi/json2): an earlier implementation of similar concept by Vitaly Shukela (2013).
